@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xth5+8o9mgeUZvXXo7GNcFxbH2lDIgiDIbizJCmOLwWN10Pb4FZ2yndUvdPc7w0mXNxWYaYmPzfjrL9etCJ0LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jongwan\\Desktop\\champSelectNameFinder\\champSelectNameFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jongwan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jongwan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Jongwan\\.nuget\\packages\\ponilcu\\1.0.3\\ponilcu.1.0.3.nupkg.sha512",
+    "C:\\Users\\Jongwan\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jongwan\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jongwan\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

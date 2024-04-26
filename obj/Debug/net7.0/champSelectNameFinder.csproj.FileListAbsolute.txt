@@ -1,0 +1,66 @@
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.exe
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.deps.json
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.runtimeconfig.json
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.AssemblyReference.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfoInputs.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfo.cs
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.CoreCompileInputs.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\refint\champSelectNameFinder.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.genruntimeconfig.cache
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\ref\champSelectNameFinder.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\PoniLCU.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\System.Management.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\websocket-sharp-core.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\nerdi\Documents\GitHub\champ-select-name-finder\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.CopyComplete
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.exe
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.deps.json
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.runtimeconfig.json
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\PoniLCU.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\System.Management.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\websocket-sharp-core.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.AssemblyReference.cache
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfoInputs.cache
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfo.cs
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.CoreCompileInputs.cache
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.CopyComplete
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\refint\champSelectNameFinder.dll
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.genruntimeconfig.cache
+C:\Users\14157\Desktop\champ-select-name-finder-main\champSelectNameFinder\obj\Debug\net7.0\ref\champSelectNameFinder.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.exe
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.deps.json
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.runtimeconfig.json
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\PoniLCU.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\System.Management.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\websocket-sharp-core.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.AssemblyReference.cache
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfoInputs.cache
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.AssemblyInfo.cs
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.CoreCompileInputs.cache
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.csproj.CopyComplete
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\refint\champSelectNameFinder.dll
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.pdb
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\champSelectNameFinder.genruntimeconfig.cache
+C:\Users\jong wan\Desktop\champSelectNameFinder\obj\Debug\net7.0\ref\champSelectNameFinder.dll
