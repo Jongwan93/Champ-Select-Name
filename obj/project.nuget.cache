@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xth5+8o9mgeUZvXXo7GNcFxbH2lDIgiDIbizJCmOLwWN10Pb4FZ2yndUvdPc7w0mXNxWYaYmPzfjrL9etCJ0LQ==",
+  "dgSpecHash": "g9OZszu6OvfBOV2wOUGMA39zfwUhmH9ioBoIyk7b/eDd9jsgjs1rivgTMZSk8CANiJVYWfiwBlhSm0yf345Vhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jongwan\\Desktop\\champSelectNameFinder\\champSelectNameFinder.csproj",
+  "projectFilePath": "C:\\Users\\Jongwan\\Desktop\\projects\\champSelectNameFinder\\champSelectNameFinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jongwan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Jongwan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("champSelectNameFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b826420f3f9253f403fa3f2800b951d6c5615c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("champSelectNameFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("champSelectNameFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

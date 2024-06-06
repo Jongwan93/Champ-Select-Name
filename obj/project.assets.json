@@ -276,11 +276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jongwan\\Desktop\\champSelectNameFinder\\champSelectNameFinder.csproj",
+      "projectUniqueName": "C:\\Users\\Jongwan\\Desktop\\projects\\champSelectNameFinder\\champSelectNameFinder.csproj",
       "projectName": "champSelectNameFinder",
-      "projectPath": "C:\\Users\\Jongwan\\Desktop\\champSelectNameFinder\\champSelectNameFinder.csproj",
+      "projectPath": "C:\\Users\\Jongwan\\Desktop\\projects\\champSelectNameFinder\\champSelectNameFinder.csproj",
       "packagesPath": "C:\\Users\\Jongwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jongwan\\Desktop\\champSelectNameFinder\\obj\\",
+      "outputPath": "C:\\Users\\Jongwan\\Desktop\\projects\\champSelectNameFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jongwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
